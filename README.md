@@ -1,5 +1,5 @@
 ฅ^•ﻌ•^ฅ
 
-<img src="./resources/tokyo-tower.jpg" width="80%" height="80%"/>
+<img src="./resources/tokyo-tower.jpg" width="50%" height="50%"/>
 
 ₍˄·͈༝·͈˄₍˄·͈༝·͈˄( ͒ ु•·̫• ू ͒)˄·͈༝·͈˄₎˄·͈༝·͈˄₎
